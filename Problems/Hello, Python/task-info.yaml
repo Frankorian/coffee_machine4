@@ -1,0 +1,17 @@
+type: code
+files:
+- name: task.py
+  visible: true
+  learner_created: false
+feedback_link: https://hyperskill.org/learn/step/5205
+status: Failed
+feedback:
+  message: |
+    Failed. Runtime error
+
+    Traceback (most recent call last):
+      File "jailed_code", line 4, in <module>
+        wgot = int(input("Write how many ml of water the coffee machine has:"))
+    ValueError: invalid literal for int() with base 10: 'Learn Python to be great!'
+  time: Mon, 06 Jul 2020 20:21:36 UTC
+record: -1
